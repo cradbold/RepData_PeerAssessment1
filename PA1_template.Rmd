@@ -3,7 +3,7 @@ title: "Reproducible Research: Peer Assessment 1"
 author: "Conrad Warmbold"
 date: "March 12, 2015"
 output: html_document
-html_document:
+html_document: PA1_template.html
 keep_md: true
 ---
 
